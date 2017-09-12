@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [311.64513656292195, 0.0, 317.0968358839562, 0.0, 307.73173211715726, 212.278384050043,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: moose/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2753887019199738, 0.0553056241625985, 0.0008565880884123314, 0.0029363796651984664,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [216.41050720214844, 0.0, 321.32226669890224, 0.0, 0.0, 236.5877227783203,
+    195.08760885944685, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
